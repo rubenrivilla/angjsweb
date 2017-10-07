@@ -217,3 +217,11 @@ FakesAssemblies/
 _Pvt_Extensions
 
 target/
+
+\.vscode/
+
+\.settings/
+
+\.project
+
+\.classpath
